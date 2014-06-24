@@ -1,0 +1,21 @@
+{
+  "name": "bootstrap-scss-only",
+  "version": "3.1.1",
+  "keywords": [
+        "twitter",
+        "bootstrap",
+        "twitter-bootstrap",
+        "sass"
+    ],
+    "main": [
+      "scss/bootstrap.scss"
+    ],
+    "homepage": "http://getbootstrap.com/",
+    "author": {
+        "name": "Twitter Inc."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/StevenClontz/bootstrap-scss-only.git"
+    }
+}
