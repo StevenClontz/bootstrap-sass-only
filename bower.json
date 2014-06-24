@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-scss-only",
+  "name": "bootstrap-sass-only",
   "version": "3.1.1",
   "keywords": [
         "twitter",
@@ -16,6 +16,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/StevenClontz/bootstrap-scss-only.git"
+        "url": "git://github.com/StevenClontz/bootstrap-sass-only.git"
     }
 }
