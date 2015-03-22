@@ -1,6 +1,6 @@
 {
   "name": "bootstrap-sass-only",
-  "version": "3.1.1",
+  "version": "3.4.4",
   "keywords": [
         "twitter",
         "bootstrap",
@@ -13,7 +13,7 @@
     ],
     "homepage": "http://getbootstrap.com/",
     "author": {
-        "name": "Twitter Inc."
+        "name": "Steven Clontz"
     },
     "repository": {
         "type": "git",
