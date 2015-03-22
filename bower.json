@@ -5,10 +5,11 @@
         "twitter",
         "bootstrap",
         "twitter-bootstrap",
-        "sass"
+        "sass",
+        "scss"
     ],
     "main": [
-      "scss/bootstrap.scss"
+      "scss/_bootstrap.scss"
     ],
     "homepage": "http://getbootstrap.com/",
     "author": {
